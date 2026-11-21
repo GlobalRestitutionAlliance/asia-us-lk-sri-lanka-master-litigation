@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: sri-lankan-restitution-roadmap-and-qsf-trust-execution
-  name: Sri Lankan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/sri-lankan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_lk_001
+    name: Sri Lanka Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_002
+    name: Sri Lanka Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_003
+    name: Sri Lanka Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_004
+    name: Sri Lanka Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_005
+    name: Sri Lanka Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_006
+    name: Sri Lanka Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_007
+    name: Sri Lanka Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_008
+    name: Sri Lanka Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_009
+    name: Sri Lanka Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_010
+    name: Sri Lanka Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_011
+    name: Sri Lanka Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_012
+    name: Sri Lanka Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_013
+    name: Sri Lanka Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_014
+    name: Sri Lanka Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_015
+    name: Sri Lanka Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_016
+    name: Sri Lanka Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_017
+    name: Sri Lanka Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_018
+    name: Sri Lanka Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_019
+    name: Sri Lanka Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_020
+    name: Sri Lanka Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_021
+    name: Sri Lanka Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_022
+    name: Sri Lanka Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_023
+    name: Sri Lanka Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_024
+    name: Sri Lanka Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_025
+    name: Sri Lanka Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_026
+    name: Sri Lanka Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_027
+    name: Sri Lanka Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_028
+    name: Sri Lanka Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_029
+    name: Sri Lanka Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_030
+    name: Sri Lanka Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_031
+    name: Sri Lanka Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_032
+    name: Sri Lanka Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_033
+    name: Sri Lanka Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_034
+    name: Sri Lanka Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_035
+    name: Sri Lanka Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_036
+    name: Sri Lanka Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_037
+    name: Sri Lanka Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_038
+    name: Sri Lanka Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_039
+    name: Sri Lanka Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_040
+    name: Sri Lanka Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_041
+    name: Sri Lanka Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_042
+    name: Sri Lanka Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_043
+    name: Sri Lanka Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_044
+    name: Sri Lanka Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_045
+    name: Sri Lanka Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_046
+    name: Sri Lanka Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_047
+    name: Sri Lanka Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_048
+    name: Sri Lanka Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_049
+    name: Sri Lanka Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_050
+    name: Sri Lanka Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_051
+    name: Sri Lanka Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_052
+    name: Sri Lanka Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_053
+    name: Sri Lanka Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_054
+    name: Sri Lanka Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_055
+    name: Sri Lanka Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_056
+    name: Sri Lanka Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_057
+    name: Sri Lanka Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_058
+    name: Sri Lanka Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_059
+    name: Sri Lanka Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_060
+    name: Sri Lanka Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_061
+    name: Sri Lanka Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_062
+    name: Sri Lanka Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_063
+    name: Sri Lanka Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_064
+    name: Sri Lanka Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_065
+    name: Sri Lanka Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_066
+    name: Sri Lanka Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_067
+    name: Sri Lanka Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_068
+    name: Sri Lanka Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_069
+    name: Sri Lanka Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_070
+    name: Sri Lanka Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_071
+    name: Sri Lanka Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_072
+    name: Sri Lanka Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_073
+    name: Sri Lanka Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_074
+    name: Sri Lanka Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_075
+    name: Sri Lanka Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_076
+    name: Sri Lanka Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_077
+    name: Sri Lanka Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_078
+    name: Sri Lanka Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_079
+    name: Sri Lanka Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_080
+    name: Sri Lanka Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_081
+    name: Sri Lanka Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_082
+    name: Sri Lanka Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_083
+    name: Sri Lanka Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_084
+    name: Sri Lanka Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_085
+    name: Sri Lanka Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_086
+    name: Sri Lanka Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_087
+    name: Sri Lanka Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_088
+    name: Sri Lanka Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_089
+    name: Sri Lanka Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_090
+    name: Sri Lanka Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_091
+    name: Sri Lanka Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_092
+    name: Sri Lanka Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_093
+    name: Sri Lanka Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_094
+    name: Sri Lanka Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_095
+    name: Sri Lanka Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_096
+    name: Sri Lanka Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_097
+    name: Sri Lanka Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_098
+    name: Sri Lanka Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_099
+    name: Sri Lanka Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_100
+    name: Sri Lanka Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_101
+    name: Sri Lanka Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_102
+    name: Sri Lanka Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_103
+    name: Sri Lanka Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_104
+    name: Sri Lanka Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_105
+    name: Sri Lanka Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_106
+    name: Sri Lanka Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_107
+    name: Sri Lanka Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_108
+    name: Sri Lanka Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_109
+    name: Sri Lanka Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_110
+    name: Sri Lanka Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_111
+    name: Sri Lanka Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_112
+    name: Sri Lanka Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_113
+    name: Sri Lanka Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_114
+    name: Sri Lanka Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_115
+    name: Sri Lanka Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_116
+    name: Sri Lanka Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_117
+    name: Sri Lanka Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_118
+    name: Sri Lanka Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_119
+    name: Sri Lanka Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_120
+    name: Sri Lanka Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_121
+    name: Sri Lanka Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_122
+    name: Sri Lanka Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_123
+    name: Sri Lanka Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_124
+    name: Sri Lanka Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_125
+    name: Sri Lanka Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_126
+    name: Sri Lanka Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_127
+    name: Sri Lanka Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_128
+    name: Sri Lanka Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_129
+    name: Sri Lanka Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_130
+    name: Sri Lanka Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_131
+    name: Sri Lanka Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_132
+    name: Sri Lanka Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_133
+    name: Sri Lanka Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_134
+    name: Sri Lanka Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_135
+    name: Sri Lanka Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_136
+    name: Sri Lanka Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_137
+    name: Sri Lanka Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_138
+    name: Sri Lanka Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_139
+    name: Sri Lanka Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_140
+    name: Sri Lanka Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_141
+    name: Sri Lanka Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_142
+    name: Sri Lanka Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_143
+    name: Sri Lanka Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_144
+    name: Sri Lanka Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_145
+    name: Sri Lanka Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_146
+    name: Sri Lanka Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_147
+    name: Sri Lanka Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_148
+    name: Sri Lanka Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_149
+    name: Sri Lanka Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_150
+    name: Sri Lanka Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_151
+    name: Sri Lanka Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_152
+    name: Sri Lanka Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_153
+    name: Sri Lanka Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_154
+    name: Sri Lanka Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_155
+    name: Sri Lanka Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_156
+    name: Sri Lanka Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_157
+    name: Sri Lanka Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_158
+    name: Sri Lanka Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_159
+    name: Sri Lanka Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_160
+    name: Sri Lanka Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_161
+    name: Sri Lanka Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_162
+    name: Sri Lanka Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_163
+    name: Sri Lanka Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_164
+    name: Sri Lanka Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_165
+    name: Sri Lanka Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_166
+    name: Sri Lanka Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_167
+    name: Sri Lanka Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_168
+    name: Sri Lanka Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_169
+    name: Sri Lanka Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_170
+    name: Sri Lanka Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_171
+    name: Sri Lanka Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_172
+    name: Sri Lanka Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_173
+    name: Sri Lanka Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_174
+    name: Sri Lanka Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_175
+    name: Sri Lanka Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_176
+    name: Sri Lanka Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_177
+    name: Sri Lanka Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_178
+    name: Sri Lanka Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_179
+    name: Sri Lanka Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_180
+    name: Sri Lanka Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_181
+    name: Sri Lanka Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_182
+    name: Sri Lanka Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_183
+    name: Sri Lanka Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_184
+    name: Sri Lanka Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_185
+    name: Sri Lanka Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_186
+    name: Sri Lanka Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_187
+    name: Sri Lanka Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_188
+    name: Sri Lanka Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_189
+    name: Sri Lanka Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_190
+    name: Sri Lanka Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_191
+    name: Sri Lanka Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_192
+    name: Sri Lanka Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_193
+    name: Sri Lanka Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_194
+    name: Sri Lanka Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_195
+    name: Sri Lanka Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_196
+    name: Sri Lanka Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_197
+    name: Sri Lanka Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_198
+    name: Sri Lanka Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_199
+    name: Sri Lanka Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_200
+    name: Sri Lanka Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_201
+    name: Sri Lanka Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_202
+    name: Sri Lanka Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_203
+    name: Sri Lanka Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_204
+    name: Sri Lanka Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_205
+    name: Sri Lanka Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_206
+    name: Sri Lanka Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_207
+    name: Sri Lanka Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_208
+    name: Sri Lanka Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_209
+    name: Sri Lanka Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_210
+    name: Sri Lanka Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_211
+    name: Sri Lanka Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_212
+    name: Sri Lanka Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_213
+    name: Sri Lanka Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_214
+    name: Sri Lanka Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_215
+    name: Sri Lanka Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_216
+    name: Sri Lanka Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_217
+    name: Sri Lanka Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_218
+    name: Sri Lanka Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_219
+    name: Sri Lanka Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_220
+    name: Sri Lanka Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_221
+    name: Sri Lanka Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_222
+    name: Sri Lanka Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_223
+    name: Sri Lanka Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_224
+    name: Sri Lanka Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_225
+    name: Sri Lanka Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_226
+    name: Sri Lanka Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_227
+    name: Sri Lanka Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_228
+    name: Sri Lanka Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_229
+    name: Sri Lanka Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_230
+    name: Sri Lanka Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_231
+    name: Sri Lanka Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_232
+    name: Sri Lanka Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_233
+    name: Sri Lanka Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_234
+    name: Sri Lanka Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_235
+    name: Sri Lanka Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_236
+    name: Sri Lanka Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_237
+    name: Sri Lanka Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_238
+    name: Sri Lanka Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_239
+    name: Sri Lanka Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_240
+    name: Sri Lanka Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_241
+    name: Sri Lanka Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_242
+    name: Sri Lanka Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_243
+    name: Sri Lanka Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_244
+    name: Sri Lanka Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_245
+    name: Sri Lanka Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_246
+    name: Sri Lanka Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_247
+    name: Sri Lanka Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_248
+    name: Sri Lanka Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_249
+    name: Sri Lanka Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_250
+    name: Sri Lanka Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_251
+    name: Sri Lanka Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lk_252
+    name: Sri Lanka Skill 252
+    status: ACTIVE_SCAFFOLD

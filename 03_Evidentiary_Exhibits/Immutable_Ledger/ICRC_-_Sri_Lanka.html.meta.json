@@ -1,0 +1,19 @@
+{
+  "url": "https://www.icrc.org/en/where-we-work/asia-pacific/sri-lanka",
+  "final_url": "https://www.icrc.org/en/where-we-work/sri-lanka",
+  "title": "ICRC - Sri Lanka",
+  "fetched_at": "2026-11-23T15:25:26.003149Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 70972,
+  "sha256": "65749f5ae304d5d690fa3861e254f7075346d3624bacaaadf665cb750055d87e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Possible challenge/empty capture; pending recapture.",
+  "redaction_note": "Redacted Mapbox token from public captured HTML before push; hash/bytes updated."
+}

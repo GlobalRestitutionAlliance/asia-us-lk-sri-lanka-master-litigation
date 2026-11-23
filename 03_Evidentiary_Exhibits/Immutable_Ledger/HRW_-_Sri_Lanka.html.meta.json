@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/asia/sri-lanka",
+  "final_url": "https://www.hrw.org/asia/sri-lanka",
+  "title": "HRW - Sri Lanka",
+  "fetched_at": "2026-11-23T15:25:25.064724Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 200477,
+  "sha256": "4d3954af0623d2fc07048eff6f72ea748127468167e7bfbe22437eb0fee7f50b",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
